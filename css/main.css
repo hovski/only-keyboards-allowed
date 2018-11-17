@@ -2,6 +2,11 @@ html {
   font-family: Roboto, sans-serif;
 }
 
+.ib:focus {
+  outline: 3px solid #fff;
+  outline-offset: 0;
+}
+
 .section-dark {
   background-color: #000308;
   color: #fff;
